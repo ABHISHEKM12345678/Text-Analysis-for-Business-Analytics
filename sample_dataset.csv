@@ -1,11 +1,8 @@
 text_column,label_column
-"I love the new features in this product, it's amazing!",positive
-"This is the worst experience I've ever had with a service.",negative
-"The customer support was very helpful and resolved my issue quickly.",positive
-"I'm extremely disappointed with the quality of this product.",negative
-"The delivery was fast, and the item was as described.",positive
-"The website is difficult to navigate, and it crashes often.",positive
-"Fantastic service! I'm very impressed.",positive
-"The app is buggy and crashes all the time.",positive
-"Overall, a great experience! Highly recommend.",positive
-"I would not recommend this to anyone.",positive
+"I love the new features in this product, it's amazing",positive
+"This is the worst experience I've ever had with customer service",negative
+"The product was exactly as described, very happy with my purchase",positive
+"Very poor quality, not worth the price",negative
+"The customer support was very helpful and responsive",positive
+"I'm extremely disappointed with the quality of the product",negative
+"The delivery was fast, and the item was as described",positive
